@@ -1,4 +1,4 @@
-# PumpFirmware_v1
+# PumpFirmware
 
 This project simply turns on/off relays based on 2 buttons and to prevent PID overshoot. The temp controls act as a lowpass filter for tempurature adjustments made by the PID controller. 
 
